@@ -22,4 +22,10 @@ Happy coding!
 
 # Description
 
-I have cerate
+### `basic-website`
+
+I have cerated basic website folder for website with pure html and css
+
+### `book-store`
+
+folder consists the react application created with vite
